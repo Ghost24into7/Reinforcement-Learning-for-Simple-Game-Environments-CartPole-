@@ -43,22 +43,12 @@ Ready to dive into the balancing act? Follow these steps to run the project loca
   ```bash
   pip install gymnasium stable-baselines3 matplotlib imageio numpy
   ```
-
-### Running the Project
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/cartpole-rl-mastery.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd cartpole-rl-mastery
-   ```
-3. Open the Jupyter Notebook:
+Open the Jupyter Notebook:
    ```bash
    jupyter notebook Project_2_Reinforcement_Learning_for_Simple_Game_Environments_CartPole.ipynb
    ```
-4. Run all cells to train the model, visualize the process, and generate videos (`cartpole_training.mp4` and `cartpole_test.mp4`).
-5. Download the trained model (`ppo_cartpole.zip`) and videos for further analysis or sharing.
+Run all cells to train the model, visualize the process, and generate videos (`cartpole_training.mp4` and `cartpole_test.mp4`).
+Download the trained model (`ppo_cartpole.zip`) and videos for further analysis or sharing.
 
 ### Outputs
 - **Videos**: `cartpole_training.mp4` (training process) and `cartpole_test.mp4` (trained agent performance).
